@@ -5,4 +5,6 @@ am ted
 
 # MAH STATZ!!1
 <img src="https://myreadme.vercel.app/api/embed/Tedmcbur?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-# I will sometimes post repos here
+
+# Note
+I sometimes post repos here. but please fork them if you want to modify the code.
